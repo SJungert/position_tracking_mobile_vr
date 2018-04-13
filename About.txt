@@ -1,0 +1,17 @@
+Project by: Samuel Jungert & Brady Riddle
+Completed on: 12-16-2016
+
+Contained in this directory: 
+Code for the wireless enabled microcontroller ESP8266.
+Code for the TM4C microcontroller.
+Code for a desktop running Unity Engine.
+Documentation about the device and how it works. 
+
+School website post:
+https://spaces.usu.edu/display/ece3710/Positional+Tracking+for+Mobile+Virtual+Reality
+
+YouTube of device in action:
+https://www.youtube.com/watch?v=OW-gzi7aujA
+
+News article about the project: 
+https://www.roadtovr.com/students-hack-positional-tracking-onto-gear-vr-steamvr-tracking/
